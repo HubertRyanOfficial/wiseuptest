@@ -9,6 +9,23 @@ By Hubert Ryan.
 
 ### About
 
-With React Native, Using the Mock API to make the call with Axios, receiving all the users ids and others data, also using for firebase Auth only with a registered email and password to simulate the login.
+With React Native, using the Mock API to make the call with Axios, receiving all the users ids and others data, also using for firebase Auth only with a registered email and password to simulate the login.
 
 About the registered email is `"wiseuptest_hubertryan@gmail.com"` with the password: `123456` (to tests). As in this project I used Firebase Auth, the project depends on a google .JSON config, but I will leave this config to be able to help you while you test and you do not need to create a project in Google firebase, but if you want to change the google services file, it is located in `android / app /`.
+
+Remembering that I tried to get as close to the layout in relation to the designer. I am very grateful for the opportunity to show this project and participate in this challenge and I hope it will be accepted.
+
+### Dependencies
+
+As stated in the PDF shown for the challenges, practically all dependencies were used to be able to complete the challenges, adding more in order for the routes to work correctly. Below are all the dependencies that were used for this project to be completed.
+
+- [x] Typescript
+- [x] Redux
+- [x] Redux Saga
+- [x] Redux Persist
+- [x] React Navigation
+- [x] Axios
+- [x] Styled Components
+- [x] React Native Firebase
+- [x] Firbease Auth
+- [x] Async Storage
