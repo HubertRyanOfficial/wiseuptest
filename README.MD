@@ -11,4 +11,4 @@ By Hubert Ryan.
 
 With React Native, Using the Mock API to make the call with Axios, receiving all the users ids and others data, also using for firebase Auth only with a registered email and password to simulate the login.
 
-About the registered email is "wiseuptest_hubertryan@gmail.com" with the password: 123456 (to tests).
+About the registered email is `"wiseuptest_hubertryan@gmail.com"` with the password: `123456` (to tests). As in this project I used Firebase Auth, the project depends on a google .JSON config, but I will leave this config to be able to help you while you test and you do not need to create a project in Google firebase, but if you want to change the google services file, it is located in `android / app /`.
