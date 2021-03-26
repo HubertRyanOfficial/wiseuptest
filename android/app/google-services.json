@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "986703885332",
+    "project_id": "wiserup-e04cc",
+    "storage_bucket": "wiserup-e04cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986703885332:android:2a49e6293a112ae32ea301",
+        "android_client_info": {
+          "package_name": "com.wiserupmobile"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986703885332-gm9dh7o9mp5eau176c2uf1uh7mv31tn2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3sP0tr2Bs9Ct4hfy4bQFtIQ8wqN2GIbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986703885332-gm9dh7o9mp5eau176c2uf1uh7mv31tn2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
