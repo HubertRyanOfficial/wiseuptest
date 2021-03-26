@@ -29,3 +29,5 @@ As stated in the PDF shown for the challenges, practically all dependencies were
 - [x] React Native Firebase
 - [x] Firbease Auth
 - [x] Async Storage
+
+> Important: All dependencies for TypeScript typing were installed as development dependencies and not for production. This is because in the end, all these files will be compiled again for javascript.
