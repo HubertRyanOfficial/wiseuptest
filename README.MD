@@ -30,7 +30,7 @@ As stated in the PDF shown for the challenges, practically all dependencies were
 - [x] Firbease Auth
 - [x] Async Storage
 
-> Important: All dependencies for TypeScript typing were installed as development dependencies and not for production. This is because in the end, all these files will be compiled again for javascript.
+> Important: All dependencies for TypeScript typing were installed as development dependencies and not for production. This is because in the end, all these files will be compiled again for javascript. React Navigation was optionally added for navigation between the Home Screen and List Users Screen.
 
 # Getting Started
 
@@ -45,5 +45,37 @@ $ git clone https://github.com/HubertRyanOfficial/wiseuptest.git
 or
 
 ```sh
-Download direct to you computer
+Download direct to you computer with WINRAR or with GitHub Desktop.
 ```
+
+Second, install all necessary project dependencies locally so that the project can run smoothly. Of course, go to the project folder before that!
+
+```sh
+$ yarn install
+```
+
+or
+
+```sh
+$ npm install
+```
+
+## Run the project
+
+If you didn't change google-services.JSON at the beginning for the functioning of Firebase Auth, we can move on to be able to run the app on your emular or physical phone.
+
+> Important: This project is adept at the android system, not for IOS.
+
+Now just run for android.
+
+```sh
+$ yarn android
+```
+
+or
+
+```sh
+$ npm run android
+```
+
+Now we can use and develop our project, are we going to test together with me? **Let's Go!**
