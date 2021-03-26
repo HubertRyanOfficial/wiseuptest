@@ -79,3 +79,9 @@ $ npm run android
 ```
 
 Now we can use and develop our project, are we going to test together with me? **Let's Go!**
+
+### Thank You
+
+Now, I am waiting for your answer, thanks for allowing me to participate in this challenge again, it was a pleasure to present this project to you.
+
+**By Hubert Ryan**
