@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://imgur.com/sGkWVXO.png" width="720" title="Whatsapp">
+  <img src="https://imgur.com/sGkWVXO.png" width="720" title="WiseUpTest">
 </p>
 
 # Wise Up Test
@@ -80,8 +80,12 @@ $ npm run android
 
 Now we can use and develop our project, are we going to test together with me? **Let's Go!**
 
-### Thank You
+# Thank You
 
 Now, I am waiting for your answer, thanks for allowing me to participate in this challenge again, it was a pleasure to present this project to you.
+
+<p align="left">
+  <img src="https://imgur.com/RIfwVLj.png" width="200" title="Hubert Ryan">
+</p>
 
 **By Hubert Ryan**
