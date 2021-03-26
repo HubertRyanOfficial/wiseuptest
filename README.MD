@@ -88,4 +88,4 @@ Now, I am waiting for your answer, thanks for allowing me to participate in this
   <img src="https://imgur.com/RIfwVLj.png" width="200" title="Hubert Ryan">
 </p>
 
-**By Hubert Ryan**
+By **Hubert Ryan**
